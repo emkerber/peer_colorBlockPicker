@@ -1,0 +1,16 @@
+body {
+  background-color: #DEB887;
+  text-align: center;
+  margin: 30px;
+}
+
+h2 {
+  margin: 30px;;
+}
+
+#gameTime div {
+  margin: 10px;
+  height: 75px;
+  width: 75px;
+  display: inline-block;
+}
